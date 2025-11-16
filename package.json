@@ -5,10 +5,10 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node --watch server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tu nombre",
+  "author": "Felipe Millan",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
